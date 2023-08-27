@@ -6,9 +6,9 @@ This little scrapper gets a list of matches in some pages of a item you define. 
 
 ### 1. Clone this repository
 
-1. Run `git clone https://github.com/mrfhink/IQ-binary-bot`.
+1. Run `git clone https://github.com/mrfhink/Prices-Col`.
 
-2. Run `cd IQ-binary-bot`.
+2. Run `cd Prices-Col`.
 
 ### 2. Setup the virtual enviroment
 
